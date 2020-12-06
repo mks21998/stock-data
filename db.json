@@ -1,4 +1,4 @@
-
+[
     {
         "company_name": "Facebook",
         "share_price": "$2500",
@@ -34,3 +34,4 @@
         "rise_fall": "-",
         "icon_url": "https://img.icons8.com/color/48/000000/microsoft.png"
     }
+]
